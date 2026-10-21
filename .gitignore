@@ -1,0 +1,30 @@
+# Tout exclure à la racine par défaut
+/*
+
+# Autoriser uniquement la documentation de départ
+!/.gitignore
+!/README.md
+!/docs/
+
+# Protection supplémentaire dans les dossiers autorisés
+.private/
+.env
+.env.*
+wp-config.php
+wp-config-*.php
+.htaccess*
+auth.json
+.npmrc
+*.sql
+*.sql.*
+*.sqlite*
+*.log
+*.zip
+*.tar
+*.gz
+*.bak
+*.bk
+*.pem
+*.key
+node_modules/
+vendor/
