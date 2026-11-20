@@ -2,6 +2,7 @@
 
 Institutional website for ARKAD, developed by FREEDEV using WordPress and hosted on Hostinger.
 
+https://arkad-business.com/
 ## Current status
 
 WordPress has been installed and initially deployed on Hostinger.
